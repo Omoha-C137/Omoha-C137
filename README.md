@@ -1,6 +1,7 @@
 <h1>Hi, I'm Philip! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">Content Creator</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
+-[LinkedIn Clone]https://github.com/Omoha-C137/socialmediaclonelinkedin/tree/main
 
 
 
