@@ -15,6 +15,9 @@
   
   -Google Technical Support (https://coursera.org/share/6c8947d6519f7e2b6de194f1a57fdd8b)
 
+  -Mastercard Job Simulation Certificate (https://forage-uploads-prod.s3.amazonaws.com/completion 
+     certificates/mastercard/vcKAB5yYAgvemepGQ_Mastercard_b8RArgiZfi5pPfxdN_1704287908201_completion_certificate.pdf)
+
 
 
 <h2> 🤳 Connect with me:</h2>
