@@ -6,8 +6,8 @@
 
 
  <h2>Cyber Security Projects</h2>
-   -[SIEM](https://github.com/Omoha-C137/Setting-Up-a-Home-Lab-for-Elastic-SIEM)
    - [Active Directory Bulk User Creation](https://github.com/Omoha-C137/ActiveDirectoryLAb)
+   - [SIEM](https://github.com/Omoha-C137/ActiveDirectoryLAb)
    
 
 
