@@ -26,7 +26,7 @@
   -Mastercard Job Simulation Certificate (https://forage-uploads-prod.s3.amazonaws.com/completion 
      certificates/mastercard/vcKAB5yYAgvemepGQ_Mastercard_b8RArgiZfi5pPfxdN_1704287908201_completion_certificate.pdf)
 
-     -Tools of the Trade: Linux and SQL(https://coursera.org/share/01e57df7d3b33747c4194d29126cef25)
+   -Tools of the Trade: Linux and SQL(https://coursera.org/share/01e57df7d3b33747c4194d29126cef25)
 
 
 
