@@ -8,6 +8,8 @@
 
 -[netflifclone]https://github.com/Omoha-C137/netflixclone
 
+-[Calculator]https://github.com/Omoha-C137/calculator
+
 
 
  <h2>Cyber Security Projects</h2>
