@@ -16,6 +16,8 @@
     -SIEM(https://github.com/Omoha-C137/Setting-Up-a-Home-Lab-for-Elastic-SIEM)
 
    -Active Directory Bulk User Creation(https://github.com/Omoha-C137/ActiveDirectoryLAb)
+
+   -Home Lab IDS(https://github.com/Omoha-C137/Setting-Up-IDS)
    
 
 
