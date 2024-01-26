@@ -18,10 +18,13 @@
    -Active Directory Bulk User Creation(https://github.com/Omoha-C137/ActiveDirectoryLAb)
 
    -Home Lab IDS(https://github.com/Omoha-C137/Setting-Up-IDS)
-   
 
 
+  <h2>Articles</h2>
+    -SIEM vs SOAR: A Comparative Analysis.(https://medium.com/@philipomoha/siem-vs-soar-a-comparative-analysis-c298461b0597)
 
+    
+  
   <h2>Certifications</h2>
   -Foundations of CyberSecurity (https://coursera.org/share/e9ce7af2754761a453a38e0bea64ebee)
   
