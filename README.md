@@ -23,6 +23,8 @@
   <h2>Articles</h2>
     -SIEM vs SOAR: A Comparative Analysis.(https://medium.com/@philipomoha/siem-vs-soar-a-comparative-analysis-c298461b0597)
 
+    -AI in cybersecurity
+
     
   
   <h2>Certifications</h2>
