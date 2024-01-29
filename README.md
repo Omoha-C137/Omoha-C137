@@ -28,7 +28,7 @@
     
   
   <h2>Certifications</h2>
-  -Foundations of CyberSecurity (https://coursera.org/share/e9ce7af2754761a453a38e0bea64ebee)
+  -Google Cybersecurity(https://coursera.org/share/f52df878095924339d5eb33b7c25e33c)
   
   -Google Technical Support (https://coursera.org/share/6c8947d6519f7e2b6de194f1a57fdd8b)
 
